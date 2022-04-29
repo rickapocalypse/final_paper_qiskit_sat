@@ -1,0 +1,21 @@
+{
+    "python.pythonPath": "G:\\Anaconda\\envs\\ENV_quantum\\python.exe",
+    "cSpell.words": [
+        "Aer's",
+        "calculos",
+        "CNOT",
+        "ibmq",
+        "numpy",
+        "pyplot",
+        "Qasm",
+        "Qbit",
+        "qcomputer",
+        "qiskit",
+        "qubit",
+        "qubits",
+        "registrador",
+        "tensorial",
+        "ylabel"
+    ],
+    "cSpell.language": "en,pt,pt-PT"
+}
